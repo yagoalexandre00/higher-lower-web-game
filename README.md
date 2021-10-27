@@ -29,3 +29,5 @@ flask run
 $env:FLASK_APP = "server.py"
 flask run
 ```
+If anything is not running properly, I surely recommend you to search at the Flask Official Documentation:
+> https://flask.palletsprojects.com/en/2.0.x/
